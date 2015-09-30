@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*Este programa diferencia el nombre del programa de las opciones, los valores y los parametros*/
+/*Este programa diferencia el nombre del programa de las opciones, los valores y los parametrosm/lfakjldnsalfkjnsda*/
 /*Integrantes: Dieguez Manuel, Fogg Matias, Schnocca Juan, Silva Gonzalo y Suarez Gonzalo*/
 
 int main(int argc, char *argv[])
